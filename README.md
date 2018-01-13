@@ -78,3 +78,11 @@ ng serve
 =============================
 run browser:
 http://localhost:4200/
+
+
+Installing bootstrap:
+---------------------
+$ npm install --save bootstrap
+restart server with ng serve
+
+we can check in browser with elements section inside head 
